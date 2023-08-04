@@ -1,4 +1,4 @@
-### Hi I'm Aminul Islam 👋
+# Hi I'm Aminul Islam 👋
 
 <!--
 **aminulislam2002/aminulislam2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
