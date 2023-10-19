@@ -63,7 +63,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/aminul-islam-147299280/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="YOUR_TWITTER_PROFILE_URL" target="_blank" rel="noreferrer">
