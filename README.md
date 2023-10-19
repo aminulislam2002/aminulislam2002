@@ -48,14 +48,16 @@
 
 ---
 
+
 <h3 align="center">Skills Highlight:</h3>
-<p align="center">
-  HTML/CSS: ████████░░░░░░ 70%
-  JavaScript: █████████░░░░ 80%
-  React: ███████░░░░░░░░ 60%
-  Node.js: ███████████░░░ 90%
-  UX/UI Design: ██████░░░░░ 50%
-</p>
+<ul>
+  <li>HTML/CSS: ████████░░░░░░ 70%</li>
+  <li>JavaScript: █████████░░░░ 80%</li>
+  <li>React: ███████░░░░░░░░ 60%</li>
+  <li>Node.js: ███████████░░░ 90%</li>
+  <li>UX/UI Design: ██████░░░░░ 50%</li>
+</ul>
+
 
 ---
 
