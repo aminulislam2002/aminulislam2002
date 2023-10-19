@@ -69,8 +69,21 @@
   <a href="YOUR_TWITTER_PROFILE_URL" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" width="40" height="40"/>
   </a>
+  <a href="https://www.instagram.com/aminulislamemon2002/" target="_blank" rel="noreferrer">
+    <img src="INSERT_INSTAGRAM_ICON_URL_HERE" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://web.facebook.com/Aminulislamemon2002" target="_blank" rel="noreferrer">
+    <img src="INSERT_FACEBOOK_ICON_URL_HERE" alt="Facebook" width="40" height="40"/>
+  </a>
+  <a href="01719006757" target="_blank" rel="noreferrer">
+    <img src="INSERT_WHATSAPP_ICON_URL_HERE" alt="WhatsApp" width="40" height="40"/>
+  </a>
+  <a href="01719006757" target="_blank" rel="noreferrer">
+    <img src="INSERT_TELEGRAM_ICON_URL_HERE" alt="Telegram" width="40" height="40"/>
+  </a>
   <!-- Add more social media links as needed -->
 </p>
+
 
 
 <!--
