@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aminul Islam 👋</h1>
-<h3 align="center">Passionate Frontend Developer from Bangladesh</h3> 
+<h3 align="center">Passionate Frontend Developer from Bangladesh</h3>
 
 ---
 
@@ -48,15 +48,48 @@
 
 ---
 
+<h3 align="center">Skills Highlight:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminulislam2002&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  HTML/CSS: ████████░░░░░░ 70%
+  JavaScript: █████████░░░░ 80%
+  React: ███████░░░░░░░░ 60%
+  Node.js: ███████████░░░ 90%
+  UX/UI Design: ██████░░░░░ 50%
 </p>
 
 ---
 
-<h3 align="center">GitHub Stats:</h3>
+<h3 align="center">Recent Projects:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aminulislam2002&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="project1.gif" alt="Project 1" width="200" height="150" />
+  <img src="project2.gif" alt="Project 2" width="200" height="150" />
+  <img src="project3.gif" alt="Project 3" width="200" height="150" />
+</p>
+
+---
+
+<h3 align="center">GitHub Trophies:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aminulislam2002" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h3 align="center">Visitor Counter:</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/aminulislam2002/count.svg" alt="Visitor Counter" />
+</p>
+
+---
+
+<h3 align="center">Contact Me:</h3>
+<p align="center">
+  <form action="mailto:your-email@example.com">
+    <input type="text" placeholder="Name" name="name">
+    <input type="email" placeholder="Email" name="email">
+    <textarea placeholder="Message" name="message"></textarea>
+    <input type="submit" value="Send">
+  </form>
 </p>
 
 ---
@@ -77,6 +110,7 @@
   </a>
   <!-- Add more social media links as needed -->
 </p>
+
 
 
 
