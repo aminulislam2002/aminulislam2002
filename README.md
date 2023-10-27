@@ -1,133 +1,207 @@
-<h1 align="center">Hi, I'm Aminul Islam 👋</h1>
-<h3 align="center">Passionate Frontend Developer from Bangladesh</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aminul Islam's GitHub Profile</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      margin: 0;
+      padding: 0;
+    }
 
----
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 20px;
+    }
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-</p>
+    .header {
+      text-align: center;
+      background-color: #007BFF;
+      padding: 20px 0;
+    }
 
----
+    .header h1 {
+      font-size: 36px;
+      color: #fff;
+    }
 
+    .intro {
+      display: flex;
+      align-items: center;
+      padding: 20px 0;
+    }
 
-<h3 align="center">Skills Highlight:</h3>
-<ul>
-  <li>HTML/CSS: ████████░░░░░░ 90%</li>
-  <li>JavaScript: █████████░░░░ 80%</li>
-  <li>React: ███████░░░░░░░░ 70%</li>
-  <li>Node.js: ███████████░░░ 50%</li>
-  <li>UX/UI Design: ██████░░░░░ 80%</li>
-</ul>
+    .intro img {
+      border-radius: 50%;
+      width: 150px;
+      height: 150px;
+      margin-right: 20px;
+      animation: rotate 5s linear infinite;
+    }
 
+    @keyframes rotate {
+      from {
+        transform: rotate(0deg);
+      }
+      to {
+        transform: rotate(360deg);
+      }
+    }
 
----
+    .intro h1 {
+      font-size: 28px;
+      color: #333;
+    }
 
-<h3 align="center">Recent Projects:</h3>
-<p align="center">
-  <img src="project1.gif" alt="Project 1" width="200" height="150" />
-  <img src="project2.gif" alt="Project 2" width="200" height="150" />
-  <img src="project3.gif" alt="Project 3" width="200" height="150" />
-</p>
+    .info {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
 
----
+    .info h3 {
+      font-size: 24px;
+      margin-top: 0;
+    }
 
-<h3 align="center">GitHub Trophies:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aminulislam2002" alt="GitHub Trophies" />
-</p>
+    .info p {
+      font-size: 18px;
+    }
 
----
+    .info ul {
+      list-style: none;
+      padding: 0;
+    }
 
-<h3 align="center">Visitor Counter:</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/aminulislam2002/count.svg" alt="Visitor Counter" />
-</p>
+    .info ul li {
+      margin-bottom: 10px;
+    }
 
----
+    .skills {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+    }
 
-<h3 align="center">Contact Me:</h3>
-<p align="center">
-  <form action="mailto:your-email@example.com">
-    <input type="text" placeholder="Name" name="name">
-    <input type="email" placeholder="Email" name="email">
-    <textarea placeholder="Message" name="message"></textarea>
-    <input type="submit" value="Send">
-  </form>
-</p>
+    .skills img {
+      margin: 10px;
+      width: 60px;
+      height: 60px;
+    }
 
----
+    .projects {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/aminul-islam-147299280/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="YOUR_TWITTER_PROFILE_URL" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/aminulislamemon2002/" target="_blank" rel="noreferrer">
-    <img src="https://example.com/instagram-icon.png" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://web.facebook.com/Aminulislamemon2002" target="_blank" rel="noreferrer">
-    <img src="https://example.com/facebook-icon.png" alt="Facebook" width="40" height="40"/>
-  </a>
-  <!-- Add more social media links as needed -->
-</p>
+    .projects img {
+      margin: 10px;
+      width: 200px;
+      height: 150px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
 
+    .github-trophies {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
 
+    .github-trophies img {
+      width: 200px;
+      height: auto;
+    }
 
+    .visitor-counter {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
 
+    .contact-me {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
 
-<!--
-**aminulislam2002/aminulislam2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    .social-icons {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
 
-Here are some ideas to get you started:
+    .social-icons a {
+      margin: 10px;
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    .social-icons img {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      transition: transform 0.2s;
+    }
+
+    .social-icons img:hover {
+      transform: scale(1.1);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Hi, I'm Aminul Islam 👋</h1>
+    </div>
+
+    <div class="intro">
+      <img src="YOUR_GITHUB_PROFILE_PICTURE_URL" alt="Profile Picture">
+      <h1>Passionate Frontend Developer from Bangladesh</h1>
+    </div>
+
+    <div class="info">
+      <h3>About Me</h3>
+      <p>Insert your introduction here.</p>
+    </div>
+
+    <div class="skills">
+      <!-- Add your skills icons here -->
+    </div>
+
+    <div class="projects">
+      <img src="project1.gif" alt="Project 1">
+      <img src="project2.gif" alt="Project 2">
+      <img src="project3.gif" alt="Project 3">
+    </div>
+
+    <div class="github-trophies">
+      <img src="https://github-profile-trophy.vercel.app/?username=aminulislam2002" alt="GitHub Trophies">
+    </div>
+
+    <div class="visitor-counter">
+      <img src="https://profile-counter.glitch.me/aminulislam2002/count.svg" alt="Visitor Counter">
+    </div>
+
+    <div class="contact-me">
+      <form action="mailto:your-email@example.com">
+        <input type="text" placeholder="Name" name="name">
+        <input type="email" placeholder="Email" name="email">
+        <textarea placeholder="Message" name="message"></textarea>
+        <input type="submit" value="Send">
+      </form>
+    </div>
+
+    <div class="social-icons">
+      <a href="https://www.linkedin.com/in/aminul-islam-147299280/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn">
+      </a>
+      <!-- Add more social media links as needed -->
+    </div>
+  </div>
+</body>
+</html>
