@@ -65,15 +65,15 @@
 <h3 align="center">Contact Me:</h3>
 <p align="center">
   <div style="display: flex; justify-content: space-between;">
-    <a href="https://linkedin.com/in/aminul-islam-147299280" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aminul-islam-147299280" height="120" />
-    </a>
-    <a href="https://fb.com/aminulislamemon2002" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aminulislamemon2002" height="120" />
-    </a>
-    <a href="https://instagram.com/aminulislamemon2002" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aminulislamemon2002" height="120" />
-    </a>
+    <div> <a href="https://linkedin.com/in/aminul-islam-147299280" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aminul-islam-147299280" height="80" />
+    </a></div>
+    <div><a href="https://fb.com/aminulislamemon2002" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aminulislamemon2002" height="80" />
+    </a></div>
+    <div><a href="https://instagram.com/aminulislamemon2002" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aminulislamemon2002" height="80" />
+    </a></div>
   </div>
 </p>
 
