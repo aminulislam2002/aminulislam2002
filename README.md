@@ -86,14 +86,12 @@
 ---
 
 <h3 align="center">Contact Me:</h3>
-<p align="center">
-  <form action="mailto:your-email@example.com">
-    <input type="text" placeholder="Name" name="name">
-    <input type="email" placeholder="Email" name="email">
-    <textarea placeholder="Message" name="message"></textarea>
-    <input type="submit" value="Send">
-  </form>
+<p align="left">
+<a href="https://linkedin.com/in/aminul-islam-147299280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aminul-islam-147299280" height="30" width="40" /></a>
+<a href="https://fb.com/aminulislamemon2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aminulislamemon2002" height="30" width="40" /></a>
+<a href="https://instagram.com/aminulislamemon2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aminulislamemon2002" height="30" width="40" /></a>
 </p>
+
 
 ---
 
