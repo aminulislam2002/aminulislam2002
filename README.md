@@ -46,29 +46,6 @@
   </a>
 </p>
 
-
----
-
-
-<h3 align="center">Skills Highlight:</h3>
-<ul>
-  <li>HTML/CSS: ████████░░░░░░ 90%</li>
-  <li>JavaScript: █████████░░░░ 80%</li>
-  <li>React: ███████░░░░░░░░ 70%</li>
-  <li>Node.js: ███████████░░░ 50%</li>
-  <li>UX/UI Design: ██████░░░░░ 80%</li>
-</ul>
-
-
----
-
-<h3 align="center">Recent Projects:</h3>
-<p align="center">
-  <img src="project1.gif" alt="Project 1" width="200" height="150" />
-  <img src="project2.gif" alt="Project 2" width="200" height="150" />
-  <img src="project3.gif" alt="Project 3" width="200" height="150" />
-</p>
-
 ---
 
 <h3 align="center">GitHub Trophies:</h3>
@@ -86,21 +63,20 @@
 ---
 
 <h3 align="center">Contact Me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aminul-islam-147299280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aminul-islam-147299280" height="30" width="40" /></a>
-<a href="https://fb.com/aminulislamemon2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aminulislamemon2002" height="30" width="40" /></a>
-<a href="https://instagram.com/aminulislamemon2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aminulislamemon2002" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/aminul-islam-147299280" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aminul-islam-147299280" height="120" />
+  </a>
+  <a href="https://fb.com/aminulislamemon2002" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aminulislamemon2002" height="120" />
+  </a>
+  <a href="https://instagram.com/aminulislamemon2002" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aminulislamemon2002" height="120" />
+  </a>
 </p>
 
 
 ---
-
-
-
-
-
-
-
 
 <!--
 **aminulislam2002/aminulislam2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
