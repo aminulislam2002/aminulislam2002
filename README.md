@@ -78,6 +78,12 @@
 </p>
 
 
+| | | |
+|---|---|---|
+|[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/aminul-islam-147299280)|[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/aminulislamemon2002)|[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/aminulislamemon2002)|
+
+
+
 
 
 ---
