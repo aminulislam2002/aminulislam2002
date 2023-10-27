@@ -95,22 +95,7 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/aminul-islam-147299280/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="YOUR_TWITTER_PROFILE_URL" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/aminulislamemon2002/" target="_blank" rel="noreferrer">
-    <img src="https://example.com/instagram-icon.png" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://web.facebook.com/Aminulislamemon2002" target="_blank" rel="noreferrer">
-    <img src="https://example.com/facebook-icon.png" alt="Facebook" width="40" height="40"/>
-  </a>
-  <!-- Add more social media links as needed -->
-</p>
+
 
 
 
