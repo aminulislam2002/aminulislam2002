@@ -144,6 +144,11 @@
 
 ---
 
+<h3 align="center">Github Stats:</h3>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aminulislam2002&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+---
+
 <!--
 **aminulislam2002/aminulislam2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
