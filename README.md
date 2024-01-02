@@ -111,19 +111,10 @@
   </a>
 </p> -->
 
----
-
 <!-- <h3 align="center">Visitor Counter:</h3>
 <p align="center">
   <img src="https://profile-counter.glitch.me/aminulislam2002/count.svg" alt="Visitor Counter" />
 </p> -->
-
----
-
-<h3 align="center">GitHub Trophies:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aminulislam2002" alt="GitHub Trophies" />
-</p>
 
 ---
 
@@ -140,6 +131,13 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>
+
+---
+
+<h3 align="center">GitHub Trophies:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aminulislam2002" alt="GitHub Trophies" />
+</p>
 
 ---
 
