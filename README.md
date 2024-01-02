@@ -120,32 +120,31 @@
 
 ---
 
-<h3 align="center">Visitor Counter:</h3>
+<!-- <h3 align="center">Visitor Counter:</h3>
 <p align="center">
   <img src="https://profile-counter.glitch.me/aminulislam2002/count.svg" alt="Visitor Counter" />
-</p>
+</p> -->
 
 ---
 
 <h3 align="center">Contact Me:</h3>
-<p align="center">
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-    <a href="https://linkedin.com/in/aminul-islam-147299280" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aminul-islam-147299280" height="100" />
-    </a>
-    <a href="https://fb.com/aminulislamemon2002" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aminul-islamemon2002" height="80" />
-    </a>
-    <a href="https://instagram.com/aminulislamemon2002" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aminul-islamemon2002" height="80" />
-    </a>
-  </div>
-</p>
+
+<div align="center">
+<a href="https://linkedin.com/in/aminul-islam-147299280" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/aminulislamemon2002" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/aminulislamemon2002" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>
 
 ---
 
 <h3 align="center">Github Stats:</h3>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aminulislam2002&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aminulislam2002&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 ---
 
