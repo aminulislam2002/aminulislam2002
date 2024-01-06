@@ -4,8 +4,8 @@
 <img src="https://deendarpartner.com/psilrimt/2023/06/Hasib-imam-hridoy.jpg" align="center" style="width: 100%" />
 </div> -->
 
-# <div align="center">I'm Aminul Islam</div>
-### <div align="center"> A full-time front-end developer 👨‍💻</div>
+### <div align="center">I'm Aminul Islam</div>
+#### <div align="center"> A full-time front-end developer 👨‍💻</div>
 
 <br/>  
   
