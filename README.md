@@ -4,8 +4,25 @@
 <img src="https://deendarpartner.com/psilrimt/2023/06/Hasib-imam-hridoy.jpg" align="center" style="width: 100%" />
 </div> -->
 
-<h1 align="center">Hi there, I'm Aminul Islam 👋</h1>
-<h3 align="center">Passionate Frontend Developer from Bangladesh</h3>
+### <div align="center">I'm Aminul Islam</div>
+
+<div align="center"> A full-time front-end developer 👨‍💻</div>
+
+<br/>  
+  
+Hello there, I am Aminul Islam, a dedicated and enthusiastic React front-end developer with knowledge of full-stack development. Over the past 1 year, I have been honing my skills in web development, specializing in React.js for front-end development. I also possess knowledge of Express.js for server-side development and MongoDB for working with databases. This allows me to tackle end-to-end development tasks and build robust, scalable web applications.
+  
+<br/>
+
+- 🌱 I’m currently learning **Redux**
+
+<!-- - 👨‍💻 All of my projects are available at [https://hasibimamdev.netlify.app/](https://hasibimamdev.netlify.app/) -->
+
+- 💬 Ask me about **JavaScript and React.js**
+
+- 📫 How to reach me **aminulislamemon2002@gmail.com**
+
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1hQ9PLMaPA1ZvS4a5sZgCnQFXM6BQ90SR/view?usp=drive_link](https://drive.google.com/file/d/1hQ9PLMaPA1ZvS4a5sZgCnQFXM6BQ90SR/view?usp=drive_link) -->
 
 ---
 
@@ -32,8 +49,6 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 <!-- Redux -->
 <!-- <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>   -->
-<!-- Chakra UI -->
-<!-- <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>   -->
 </div>
 
 </td><td valign="top" width="33%">
@@ -67,54 +82,6 @@
 </div>
 
 </td></tr></table>
-
-<!-- <h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-</p> -->
-
-<!-- <h3 align="center">Visitor Counter:</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/aminulislam2002/count.svg" alt="Visitor Counter" />
-</p> -->
 
 ---
 
