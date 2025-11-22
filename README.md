@@ -100,10 +100,7 @@ Hello there, I am Aminul Islam, a dedicated and enthusiastic React front-end dev
 
 ---
 
-<h3 align="center">GitHub Trophies:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aminulislam2002" alt="GitHub Trophies" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=aminulislam2002)](https://git.io/streak-stats)
 
 ---
 
