@@ -1,4 +1,4 @@
-![logo]([https://github.com/aminulislam2002/aminulislam2002/blob/main/aminul%20islam.png](https://github.com/aminulislam2002/aminulislam2002/blob/main/Github_Banner_AI.png?raw=true))
+![logo](https://github.com/aminulislam2002/aminulislam2002/blob/main/aminul%20islam.png)
 
 <!-- <div align="center">
 <img src="https://deendarpartner.com/psilrimt/2023/06/Hasib-imam-hridoy.jpg" align="center" style="width: 100%" />
